@@ -26,5 +26,3 @@ A responsive product selection interface with three interactive boxes that expan
 2. Select your preferred size and color
 3. The total price updates automatically
 4. Click "Add to Cart" to confirm selection
-
-## Project Structure
